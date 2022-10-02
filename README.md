@@ -1,7 +1,4 @@
 <h1> flutter Flutter_Reduce_pollution </h1>
-
-
-
 <h4> You can change the information and link it to the databases ...</h4>
 
 
