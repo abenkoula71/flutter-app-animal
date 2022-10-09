@@ -4,4 +4,3 @@
 <img src="https://github.com/abenkoula71/flutter-app-animal/blob/main/Screenshot_1643021585.png" width="300" /> 
 <hr>
 
-
